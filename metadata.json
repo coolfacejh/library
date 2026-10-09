@@ -1,0 +1,6 @@
+{
+  "name": "도서관 도서 예약 시스템 (GAS 연동)",
+  "description": "Google Apps Script(GAS) 및 스프레드시트 데이터베이스와 연동되는 스마트 도서관 도서 예약 단일 페이지 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
